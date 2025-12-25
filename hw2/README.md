@@ -15,7 +15,6 @@ hw2/
 │   └── logs/                     # Логи для TensorBoard
 ├── results/                      # Графики, метрики и визуализации для отчета
 │   ├── loss_graph.png
-│   ├── synthetic_example.png
 │   └── predictions.png
 ├── annotations_trainval2017.zip  # Архив с аннотациями
 ├── hw2.ipynb                   # Основной ноутбук с кодом
